@@ -39,4 +39,4 @@ Deployment Link for Streamlit Share - https://share.streamlit.io/malikarbaaz/fac
 ![image](https://user-images.githubusercontent.com/90706986/155858940-3f15c448-ffaf-4f1d-89db-f9c53d1a8080.png)
 
 # Conclusion
-Finally I build the webapp and deployed which has training accuracy of 81% and test accuracy of 62% .
+Finally I build the webapp and deployed which has training accuracy of 81% and test accuracy of 65% .
